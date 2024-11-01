@@ -1,0 +1,10 @@
+Package: hRops
+Title: Streamlined Functions for HR Data Analytics
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nasaa", "Enkhbold", , "enkhboe@gcsnc.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: `use_proprietary_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
